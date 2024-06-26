@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: June 25, 2024
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Completed reading the JS Documnetation on the CodeHelp website. Started practicing JS on FreeCodeCamp and completed my first project of a Pyramid Generator.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I'm getting a hang on the JS syntax and functionalities
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: June 26, 2024
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Solved 3 questions on LeetCode on practice JS for 30days section, completed the pyramid generator officialy, practiced JS functions by creating a gradeBook app in freeCodeCamp, Creating a project called RPG - Game.
+
+**Thoughs**: I'm getting a hang on the JS backend functionalities I think so and I'm feeling that I've accomplished something".
