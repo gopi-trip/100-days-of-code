@@ -14,3 +14,11 @@
 **Thoughs**: I'm getting a hang on the JS backend functionalities I think so and I'm feeling that I've accomplished something".
 
 **Links** [text](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
+
+
+###Day 3: June 27, 2024
+
+**Today's Progess**: Solved two leetCode problems on setTimeout(() => {},t) functions. Completed Basic Debugging by Building a random background-color generator on freeCodeCamp website.
+
+**Thoughs**: The LeetCode problems were very easy and the descriptions were really confusing and it was difficult to understand them clearly, so I took the help of discussions and they solved the issue of my confusion.
+
