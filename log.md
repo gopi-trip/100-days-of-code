@@ -30,3 +30,10 @@
 6. Regarding DOM: element.insertAdjacentHTML(position,HTML to add); <br/>
 7. .alert() function, which is a built-in function of a browser and it is used to display whatever is passed into it as an alert or a pop-up. </br>
 8. Array.from(array-like) method. I used this to create an array from a NodeList. document.querySelectorAll() returns a NodeList, which is an array-like. so the method takes a NodeList and returns an array with the elements of NodeList as array elements
+
+### Day 4: June 28, 2024
+
+**Today's Progress**: Completed a Rock,Papers and Scissors Game with the help of JS in freeCodeCamp. Link to the same --  
+[ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ #review-dom-manipulation-by-building-a-rock-paper-scissors-game] <br/>
+
+Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces contest 900 something. Did two quesitons and 1 got accepted and the other one got Time Limit Exceeded error.
