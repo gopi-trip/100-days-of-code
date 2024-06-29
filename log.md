@@ -40,4 +40,4 @@ Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces c
 
 ### Day 5: June 29, 2024
 
-**Today's Progress**: Completed the rock paper scissors game.
+**Today's Progress**: Completed the rock paper scissors game. Learned about Object.keys() method that takes an array-like or object-like and returns an array with keys of an object if an object is passed and array-elements if an array is passed.
