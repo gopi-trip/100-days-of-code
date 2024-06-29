@@ -36,4 +36,8 @@
 **Today's Progress**: Completed a Rock,Papers and Scissors Game with the help of JS in freeCodeCamp. Link to the same --  
 [ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/ #review-dom-manipulation-by-building-a-rock-paper-scissors-game] <br/>
 
-Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces contest 900 something. Did two quesitons and 1 got accepted and the other one got Time Limit Exceeded error.
+Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces contest 900 something. Did two quesitons and 1 got accepted and the other one got Time Limit Exceeded error. Started creating the rock paper scissors game on my own. 
+
+### Day 5: June 29, 2024
+
+**Today's Progress**: Completed the rock paper scissors game.
