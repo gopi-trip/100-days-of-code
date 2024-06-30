@@ -1,0 +1,132 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel = "stylesheet" href = "styles.css">
+</head>
+<body>
+
+  <div id="main-container">
+    <h1 id="container-header">Is it a Palindrome</h1>
+    <div id = "palindrome-checker-container">
+      <p>Enter in text to check for a palindrome:</p>
+      <input type = "text" id = "text-input" placeholder = "Enter number or word to check"/>
+      <button type = "button" id = "check-btn">Check</button>
+      <hr>
+      <div id="result" ><span id = "result-message"></span></div>
+    </div>
+    <div id="info-container">
+      💡 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
+    </div>
+  </div>
+<script src = "script.js"></script>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  padding:0;
+  margin:0 ;
+  box-sizing:border-box;
+}
+
+body{
+  text-align:center;
+}
+
+#main-container{
+  /* max-width:1080px; */
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  padding:1rem;
+  margin:0 auto;
+  gap:1rem;
+}
+
+#palindrome-checker-container{
+  padding:1rem;
+  background-color: #f0f0f0;
+  margin:0 auto;
+  border-radius:0.5rem;
+}
+
+#palindrome-checker-container *{
+  margin: 0.5rem;
+  
+}
+
+#info-container{
+  background-color:green;
+  padding:1rem;
+  max-width:50%;
+  margin:0 auto;
+  border-radius:12px;
+}
+
+#text-input{
+  padding:0.25rem;
+  text-align:center;
+  border:none;
+}
+
+#check-btn{
+  padding:0.15rem 0.5rem;
+  border-radius:0.5rem;
+  cursor:pointer
+}
+
+hr{
+  width:175px;
+}
+
+** end of undefined **
+
+** start of undefined **
+
+//Accessing the check button
+const checkButton = document.getElementById('check-btn');
+// Accessing the input text field
+const inputField = document.getElementById('text-input');
+//Accessing the span element for showing result
+const resultMessage = document.getElementById('result-message')
+//Function for showing result
+const checkIfPalindrome = () => {
+  const regex = /[_-\s\\\/?:?\(\)\.,]/gi;
+  const textEntered = inputField.value.trim().toLowerCase();
+  const length = textEntered.length;
+  if(length === 0){
+   alert("Please input a value");
+  }else{
+    let message = ``;
+    if(isPalindrome(textEntered.replace(regex,""))){
+      message += `${textEntered} is a palindrome`;
+    }else{
+      message += `${textEntered} is not a palindrome`;
+    }
+    resultMessage.textContent = message;
+  }
+}
+//Function for checking of palindrome
+const isPalindrome = (str) => {
+  const len = str.length;
+  for (let i = 0; i < len / 2; i++) {
+    if (str[i] !== str[len - 1 - i]) {
+      return false;
+    }
+  }
+  return true;
+}
+
+checkButton.addEventListener('click',checkIfPalindrome);
+
+
+** end of undefined **
+
