@@ -56,8 +56,8 @@ Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces c
 
 ### Day 6: June 30, 2024
 
-**Today's Progress**: Completed the MP-3 player project in freeCodeCamp. Completed making a date Formatted and a new Palindrome checker from scratch using JS.
+**Today's Progress**: Completed the MP-3 player project in freeCodeCamp. Completed making a date Formattor and a new Palindrome checker from scratch using JS. Met daily LeetCode quota of 1 problem
 
-**Thoughs**: I don't know what I did in that project but well its completed now. freeCodeCamp is a good website because it provides you with a lot of projects but its not like you've got to do everything on your own, it provides you with certain things that I think that is what makes you feel that you're not doing everything by yourself so you must be cheating and it does feel that way now. Now I feel a little confident in JS and its structure. I think I'm able to think properly about the functionality now.
+**Thoughs**: I don't know what I did in that project but well its completed now. freeCodeCamp is a good website because it provides you with a lot of projects but its not like you've got to do everything on your own, it provides you with certain things that I think that is what makes you feel that you're not doing everything by yourself so you must be cheating and it does feel that way now. Now I feel a little confident in JS and its structure. I think I'm able to think properly about the functionality now. Completed one LeetCode problem and it was very easy and I had to think for straight one hour and It was me who made it complex to begin with.
 
 **Link** :  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player
