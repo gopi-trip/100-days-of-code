@@ -40,4 +40,16 @@ Solved 1 LeetCode problem, Participated as a virtual participant in CodeForces c
 
 ### Day 5: June 29, 2024
 
-**Today's Progress**: Completed the rock paper scissors game. Learned about Object.keys() method that takes an array-like or object-like and returns an array with keys of an object if an object is passed and array-elements if an array is passed.
+**Today's Progress**: Completed the rock paper scissors game. Learned about Object.keys() method that takes an array-like or object-like and returns an array with keys of an object if an object is passed and array-elements if an array is passed. Started a MP3-player project using JS in freeCodeCamp and its damn confusing man. Its eating my head. I learned a lot of things today. <br/>
+1. Promise.race(array-like) - its a method that returns the fastest promise
+2. Object.keys(array-like or object) - it is amethod that returns the keys of an object and elements of an array in the form of a new array.
+3. There is something known as WebAudioAPI which is used to play-pause-shuffle and do other operations on songs.
+4. Had a revision of the spread Operator. It creates a shallow copy.
+5. had a revision of the array.map() method, it takes a callBack function as argument and returns a new array according to the callBack fucntion passed;
+6. array.join() method - it takes a separator as an argument. It returns a string which is form by concatenation of all array elements with the separator after each element.
+7. array.sort() method. It sorts the array in ascending order alphabetically. What about numbers then? It converts all elements of the array into strings first and then compares them according to UTF-16 encoding. 
+8. array.find() method - it takes a callBack function as an argument and returns the first element that matches according to the function. It returns undefined it no such element is found. 
+9. There is something called the audio currentTime that is sued to set the duration of the song.
+10. There is also something called audio.pause() that is used to pause the song.
+11. forEach() method. It takes a callBack function as argument and for each element of the array it does what the function tells it to do. 
+12. There is a .setAttribute() method, .removeAttribute() method, classList.add()/remove() methods.
