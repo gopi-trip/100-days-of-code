@@ -20,15 +20,13 @@
 
 **Today's Progess**: Solved two leetCode problems on setTimeout(() => {},t) functions. Completed Basic Debugging by Building a random background-color generator on freeCodeCamp website. Completed a Calorie Counter Web Application by using HTML,CSS and JS.
 
-**Thoughs**: The LeetCode problems were very easy and the descriptions were really confusing and it was difficult to understand them clearly, so I took the help of discussions and they solved the issue of my confusion. After completing the Calorie Counter App I've learned a few things: 1. about the "selected" property of the <select> HTML element. It selects the option with that attribute as default one.<br/>
-2.Learned a lot about Regex, it is a short for Regular Expressions, It is used to recognize patterns in strings, it has the syntax of const regex = /+-\s/g; This is used to find strings like this: "+- Hello" or "+- Bye" but not strings like "+Hello". To do that we have something called Character Classes we can add to the regex, regex = /[+-\s]/g. This can detect strings like "+hello", The "g"in the regex performs a global match meaning it keeps on finding the patterns even after a match. Similarly there is another thing like this <br/> regex = /[+-\s]/i, the "i" here makes the regex match patterns case-insensitively.
-<br/>
+**Thoughs**: The LeetCode problems were very easy and the descriptions were really confusing and it was difficult to understand them clearly, so I took the help of discussions and they solved the issue of my confusion. After completing the Calorie Counter App I've learned a few things: 1. about the "selected" property of the <select> HTML element. It selects the option with that attribute as default one.
+2.Learned a lot about Regex, it is a short for Regular Expressions, It is used to recognize patterns in strings, it has the syntax of const regex = /+-\s/g; This is used to find strings like this: "+- Hello" or "+- Bye" but not strings like "+Hello". To do that we have something called Character Classes we can add to the regex, regex = /[+-\s]/g. This can detect strings like "+hello", The "g"in the regex performs a global match meaning it keeps on finding the patterns even after a match. Similarly there is another thing like this  regex = /[+-\s]/i, the "i" here makes the regex match patterns case-insensitively.
 3. String.replace() method. It takes two arguments - .replace(regex or a string to find, string to replace it with);
 4. const regex = /[0-9]/g, this recognizes and matches all strings with a single digit. To match multiple digits, we use /[0-9]+/ after the character class. Instead of writing /[0-9]+/ we have a shorthand like this /\d+/g. This can match all strings which have any number in them.
-<br/>
-5.String.match() method. It takes a regex as an argument and returns an array of the matched results. <br/>
-6. Regarding DOM: element.insertAdjacentHTML(position,HTML to add); <br/>
-7. .alert() function, which is a built-in function of a browser and it is used to display whatever is passed into it as an alert or a pop-up. </br>
+5.String.match() method. It takes a regex as an argument and returns an array of the matched results. 
+6. Regarding DOM: element.insertAdjacentHTML(position,HTML to add); 
+7. .alert() function, which is a built-in function of a browser and it is used to display whatever is passed into it as an alert or a pop-up.
 8. Array.from(array-like) method. I used this to create an array from a NodeList. document.querySelectorAll() returns a NodeList, which is an array-like. so the method takes a NodeList and returns an array with the elements of NodeList as array elements
 
 ### Day 4: June 28, 2024
