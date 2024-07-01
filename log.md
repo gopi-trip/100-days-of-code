@@ -51,3 +51,10 @@
 **Thoughts**: I don't know what I did in that project but well it's completed now. FreeCodeCamp is a good website because it provides you with a lot of projects but it’s not like you've got to do everything on your own. It provides you with certain things that make you feel like you're not doing everything by yourself, so you might feel like you're cheating. I now feel a little confident in JS and its structure. I think I'm able to think properly about the functionality now. Completed one LeetCode problem and it was very easy, but I had to think for an hour. It was me who made it complex to begin with.
 
 **Link**: [Music Player Project](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player)
+
+
+### Day 7: July 1, 2024
+
+**Today's Progress**: Completed making a To-do list using JS and localStorage concepts. I didn't understand half of it but I still did it. Completed two LeetCode questions and solved them on mostly on my own.
+
+**Thoughs**:Learned about element.classList.toggle() method, it takes a class name as an argument and removes the class if the element has the class name attached to it and adds it if the element does not have that class name attached to it. I learned about the dialog element. It is used to make pop-up dialog boxes on the web. It has showModal() and closeModal() methods which are used to how and close the dialog box. Then there is the array.findIndex() method, which takes a callBack function as an argument and returns the index of the first element that matches the criteria of the callBack funciton. Then there is the Date.now() method which returns the time elapsed in milliseconds since January 1970 or something. Then I learned about the localStorage.setItem("key",JSON.stringify(data));
