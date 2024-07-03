@@ -18,8 +18,7 @@
 
 **Today's Progress**: Solved two LeetCode problems on setTimeout(() => {},t) functions. Completed Basic Debugging by Building a random background-color generator on FreeCodeCamp website. Completed a Calorie Counter Web Application by using HTML, CSS, and JS.
 
-**Thoughts**: The LeetCode problems were very easy, but the descriptions were really confusing. I took the help of discussions to solve my confusion. After completing the Calorie Counter App, I learned a few things:1. About the "selected" property of the <select> HTML element. It selects the option with that attribute as the default one.
-. Learned a lot about Regex. It is used to recognize patterns in strings, like `/\+\-\s/g` for strings like "+- Hello" or "+- Bye" but not "+Hello". For case-insensitive matching, use `/[+-\s]/i`.3. String.replace() method takes two arguments - .replace(regex or a string to find, string to replace it with).4. const regex = /[0-9]/g, recognizes and matches all strings with a single digit.5. String.match() method returns an array of the matched results.6. Regarding DOM: element.insertAdjacentHTML(position, HTML to add).7. .alert() functionfor displaying alerts or pop-ups. 8. Array.from(array-like) method for creating an array from a NodeList.
+**Thoughts**: The LeetCode problems were very easy, but the descriptions were really confusing. I took the help of discussions to solve my confusion. After completing the Calorie Counter App, I learned a few things:1. About the "selected" property of the <select> HTML element. It selects the option with that attribute as the default one. Learned a lot about Regex. It is used to recognize patterns in strings, like `/\+\-\s/g` for strings like "+- Hello" or "+- Bye" but not "+Hello". For case-insensitive matching, use `/[+-\s]/i`.3. String.replace() method takes two arguments - .replace(regex or a string to find, string to replace it with).4. const regex = /[0-9]/g, recognizes and matches all strings with a single digit.5. String.match() method returns an array of the matched results.6. Regarding DOM: element.insertAdjacentHTML(position, HTML to add).7. .alert() functionfor displaying alerts or pop-ups. 8. Array.from(array-like) method for creating an array from a NodeList.
 
 ### Day 4: June 28, 2024
 
@@ -30,7 +29,6 @@
 ### Day 5: June 29, 2024
 
 **Today's Progress**: Completed the rock paper scissors game. Learned about Object.keys() method. Started an MP3-player project using JS in FreeCodeCamp. I learned a lot of things today:1. Promise.race(array-like) - returns the fastest promise.2. Object.keys(array-like or object) - returns the keys of an object or elements of an array.3. WebAudioAPI for playing, pausing, and shuffling songs. 4. Spread Operator creates a shallow copy.
-...
 
 ### Day 6: June 30, 2024
 
