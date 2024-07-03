@@ -58,6 +58,6 @@
 
 ### Day 9: July 3, 2024
 
-**Today's Progress**: 
+**Today's Progress**: Added a lot of functionalities to the Dragon Slayer game. Now I need to add the funtionality for attack and dodge and run for each monster. Also got assigned another issue: Zoom in and out feature which I requested.
 
-**Thoughts**:
+**Thoughts**: The game is going pretty well and I'm confident I'll finish it well in time. About the zoom in and out issue which I got assigned, man I don't know how to approach that shit and I've tried it, spent like 2 hours on it but cannot figure out what to do with it. I've posted it on StackOverflow and if nothing happens I'm going to just close the issue. 
