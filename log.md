@@ -61,3 +61,10 @@
 **Today's Progress**: Added a lot of functionalities to the Dragon Slayer game. Now I need to add the funtionality for attack and dodge and run for each monster. Also got assigned another issue: Zoom in and out feature which I requested.
 
 **Thoughts**: The game is going pretty well and I'm confident I'll finish it well in time. About the zoom in and out issue which I got assigned, man I don't know how to approach that shit and I've tried it, spent like 2 hours on it but cannot figure out what to do with it. I've posted it on StackOverflow and if nothing happens I'm going to just close the issue. 
+
+
+### Day 10: July 4, 2024
+
+**Today's Progress**: The Dragon Slayer game is now feature complete and I'm going to add some details to it. Updated my GitHub profile with the trophies section. Revised about the String.replace() method. Completed one LeetCode problem based on Array merging, I didn't understand the concept and copied the solutions from the discussions section today. Completed the roman numeral convertor using JS
+
+**Thought**: I'm a little more comfortable with JS now that I've done a couple of projects.
