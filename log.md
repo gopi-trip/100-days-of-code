@@ -67,4 +67,11 @@
 
 **Today's Progress**: The Dragon Slayer game is now feature complete and I'm going to add some details to it. Updated my GitHub profile with the trophies section. Revised about the String.replace() method. Completed one LeetCode problem based on Array merging, I didn't understand the concept and copied the solutions from the discussions section today. Completed the roman numeral convertor using JS
 
-**Thought**: I'm a little more comfortable with JS now that I've done a couple of projects.
+**Thoughts**: I'm a little more comfortable with JS now that I've done a couple of projects.
+
+
+### Day 11: July 5, 2024
+
+**Today's Progress**: Did nothing today. 
+
+**Thoughts**: 
