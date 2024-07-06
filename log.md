@@ -75,3 +75,9 @@
 **Today's Progress**: Did nothing today. 
 
 **Thoughts**: 
+
+### Day 12: July 6, 2024
+
+**Today's Progress**: Participated in LeetCode Biweekly contest and could not do a single problem.
+
+**Thoughts**: 
