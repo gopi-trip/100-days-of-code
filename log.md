@@ -81,3 +81,9 @@
 **Today's Progress**: Participated in LeetCode Biweekly contest and could not do a single problem.
 
 **Thoughts**: 
+
+### Day 13: July 7, 2024
+
+**Today's Progress**: Started learning JS by practicing making a spam message checker in freeCodeCamp. Learnings - 1. string.match() method, it takes a regex as argument and determines if the string matches the regex or not. 2. regex.test() method, this method takes a string as an argument and returns true if the string matches the regex and false otherwise. 3. In the character class of a regex, you can use the "|" operator to match either this or that pattern. 4. array.some() method, it takes a function as argument and returns true if atleast one element of the array matches the function's conditions. 5. Capture groups are a way to define a part of an expression that will be captured and stored for later referrences.
+
+**Thoughts**: 
