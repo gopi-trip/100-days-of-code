@@ -87,3 +87,25 @@
 **Today's Progress**: Started learning JS by practicing making a spam message checker in freeCodeCamp. Learnings - 1. string.match() method, it takes a regex as argument and determines if the string matches the regex or not. 2. regex.test() method, this method takes a string as an argument and returns true if the string matches the regex and false otherwise. 3. In the character class of a regex, you can use the "|" operator to match either this or that pattern. 4. array.some() method, it takes a function as argument and returns true if atleast one element of the array matches the function's conditions. 5. Capture groups are a way to define a part of an expression that will be captured and stored for later referrences.
 
 **Thoughts**: 
+
+### Day 14: July 8, 2024
+
+**Today's Progress**: Added Music to Dragon Slayer game. Copied the code and its working from GPT. 
+
+**Thought**: 
+
+### Day 15: July 9, 2024
+
+**Today's Progress**: Completed the spam filter project using JS.
+
+**Thoughts**: 
+
+**Link**: [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter ]
+
+### Day 16: July 10, 2024
+
+**Today's Progress**: Completed the number sorted project using JS.
+
+**Thoughts**: 
+
+**Link**: [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter ]
