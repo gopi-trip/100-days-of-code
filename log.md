@@ -110,14 +110,18 @@
 
 **Link**: [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter ]
 
-### Day 18: July 12, 2024
+### Day 17: July 12, 2024
 
 **Today's Progress**: Starting a statistics calculator project using JS. 
 
 **Thoughts**: 
 
-### Day 19: July 13, 2024
+### Day 18: July 13, 2024
 
 **Today's Progress**: Completed the statistics calculator project. Things Learned: 1. array.reduce() method revision. 2. Normally when we submit a button, it refreshes the page so its better to prevent its default behaviour. 3.Set constructor. 4. array.slice() creates a shallow copy of an array.
 
 **Link**: [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-advanced-array-methods-by-building-a-statistics-calculator ]
+
+### Day 19: July 15, 2024
+
+**Today's Progress**: Progressing through the sheet formater project using JS.
