@@ -132,3 +132,7 @@
 
 **Thoughts**: I realized I was not making any progress over this past week because of a wedding, so I decided to restart my sheet formatter project. I did not understand anything after some evalFormula function in the project, so it was just a race to complete the project.
 
+### Day 23: July 17, 2024
+**Today's Progress**: Completed the US Phone number validator project
+
+**Thoughts**: Understood the regex. I provided the base foundations and just copied the regex required. I tried it first myself and could not figure it out so chat-gpted it and done!
