@@ -136,3 +136,9 @@
 **Today's Progress**: Completed the US Phone number validator project
 
 **Thoughts**: Understood the regex. I provided the base foundations and just copied the regex required. I tried it first myself and could not figure it out so chat-gpted it and done!
+
+### Day 24: July 18, 2024
+
+**Today's Progress**: Completed a shopping cart project by using concepts of OOPs in JS. JS uses classes similar to C++. It has a class keyword followed by a class name using Pascal Case of naming. I learned about constructors, in JS a constructor is defined by the constructor(parameters) keyword. There is the this keyword which is used to access the object of a class. There is a confirm() built-in function just like alert() which is used for confirmation of an event. 
+
+**Thoughts**: 
